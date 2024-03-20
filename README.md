@@ -5,5 +5,6 @@ utilize Sass to style efficiently while adhering to the BEM methodology for a st
 I am always ready to study the latest technologies and introduce them into my projects. I feel comfortable in the 
 field of programming, particularly in web development.
 
+Awesome Front-End Developer :)
 
 console.log('Hello world! :)');
